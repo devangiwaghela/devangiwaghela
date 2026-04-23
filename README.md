@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I’m Devangi
 
-<!--
-**devangiwaghela/devangiwaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 Started with curiosity  
+💻 Ended up in Computer Science  
+🌌 Still distracted by the universe  
 
-Here are some ideas to get you started:
+⚡ What I do:
+- build small projects  
+- experiment with data & ideas  
+- learn DevOps & Cloud stuff  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Fun numbers:
+- 🌙 countless late-night coding sessions  
+- 🔁 100s of “let me try this” moments  
+- 🔬 1 ongoing image processing experiment  
+
+✨ just figuring things out as I go
